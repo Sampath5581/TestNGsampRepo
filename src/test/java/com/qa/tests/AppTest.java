@@ -18,7 +18,7 @@ public class AppTest
     	
     	WebDriver driver=new ChromeDriver();
     	driver.get("http://www.assurant.com/");
-    System.out.println("Welcome to GitHub");
+
     	
         System.out.println( "Hello World!" );
     }
