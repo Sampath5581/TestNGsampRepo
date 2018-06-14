@@ -20,7 +20,7 @@ public class AppTest
     	driver.get("http://www.assurant.com/");
 
     	// login to assurant site 
-
+// Hello Git hub
     System.out.println("Welcome to GitHub");
 
         System.out.println( "Hello World!" );
